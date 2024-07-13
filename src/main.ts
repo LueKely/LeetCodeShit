@@ -1,6 +1,4 @@
-import "./style.css";
-import TwoSum from "./Failures/TwoSum.ts";
-import Palindrome from "./Failures/Palindrome.ts";
+import './style.css';
+import RomanToInteger from './Failures/RomanToInteger';
 
-// console.log(TwoSum.twoSum([2, 5, 5, 11], 10));
-console.log(Palindrome.IsPalindrome(-101));
+console.log(RomanToInteger.transcribeRoman('XIX'));
